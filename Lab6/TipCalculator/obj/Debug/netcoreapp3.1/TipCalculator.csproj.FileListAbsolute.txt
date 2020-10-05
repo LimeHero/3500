@@ -4,7 +4,6 @@ C:\Users\Checkmate\source\repos\3500\Lab6\TipCalculator\bin\Debug\netcoreapp3.1\
 C:\Users\Checkmate\source\repos\3500\Lab6\TipCalculator\bin\Debug\netcoreapp3.1\TipCalculator.runtimeconfig.dev.json
 C:\Users\Checkmate\source\repos\3500\Lab6\TipCalculator\bin\Debug\netcoreapp3.1\TipCalculator.dll
 C:\Users\Checkmate\source\repos\3500\Lab6\TipCalculator\bin\Debug\netcoreapp3.1\TipCalculator.pdb
-C:\Users\Checkmate\source\repos\3500\Lab6\TipCalculator\obj\Debug\netcoreapp3.1\TipCalculator.csprojAssemblyReference.cache
 C:\Users\Checkmate\source\repos\3500\Lab6\TipCalculator\obj\Debug\netcoreapp3.1\TipCalculator.Form1.resources
 C:\Users\Checkmate\source\repos\3500\Lab6\TipCalculator\obj\Debug\netcoreapp3.1\TipCalculator.csproj.GenerateResource.cache
 C:\Users\Checkmate\source\repos\3500\Lab6\TipCalculator\obj\Debug\netcoreapp3.1\TipCalculator.AssemblyInfoInputs.cache
