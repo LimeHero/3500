@@ -8,6 +8,9 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
+/// <summary>
+/// Program for a GUI for a tip calculator
+/// </summary>
 namespace TipCalculator
 {
     public partial class Form1 : Form
